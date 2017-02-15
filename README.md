@@ -1,4 +1,4 @@
-# Fencer-Android
+# Fencer
 
 Create and share your very own Snapchat Geofilters -- for free!
 
