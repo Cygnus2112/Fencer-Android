@@ -6,4 +6,21 @@ Available on Google Play at [play.google.com/store/apps/details?id=com.fencer](h
 
 ![FencerPics](FencerPics.jpg)
 
-This repository is currently set to Private. Contact me for access.
+### Tech
+
+* Client-side: React Native, Redux
+* Server-side: Node.js, Express.js, MongoDB
+* APIs: Google Maps, Google Places Autocomplete
+* Deployment: AWS
+
+### Entities
+
+* User
+* My Filters
+* Filters Created
+* Filter
+* Filter Image
+
+![Fencer_ERD](Fencer_ERD.png)
+
+#### This repository is currently set to Private. Contact me for access.
