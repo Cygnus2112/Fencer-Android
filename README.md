@@ -22,3 +22,5 @@ Available on Google Play at [play.google.com/store/apps/details?id=com.fencer](h
 * Filter Image
 
 ![Fencer_ERD](Fencer_ERD.png)
+
+#### This repository is currently set to Private. Contact me for access.
